@@ -1,0 +1,16 @@
+ul.ocrsg_display_ul {
+    display: inline-block;
+    width: 33.3%;
+    float: left;
+}
+li.slider_styling.field_setting {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+
+label.ocgfrs_pro_link {
+    padding-top: 19px;
+    font-size: 19px;
+    font-weight: bold;
+}
